@@ -6,7 +6,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/linsmar-vital/) or [Portfolio](https://www.linsmarvital.com)
 - ⚡ Fun fact: I beat Margit in Elden Ring first try (with summons, haha)
 
-LET'S CODE 🎇
+LET'S CODE! 🎇
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linsmar7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
