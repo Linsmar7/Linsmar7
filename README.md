@@ -12,5 +12,6 @@ LET'S CODE! 🎇
 
 Also, I LOVE MUSIC!
 - Check my songs [here](https://soundcloud.com/linsmar/tracks)
+- Check out what I'm listening to in Spotify right now:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lolvegeta7&cover_image=true&theme=natemoo-re&bar_color=860fbd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=lolvegeta7&redirect=true)
