@@ -1,8 +1,8 @@
 ### Hello World 👋
 
 - 🎓 I'm a Computer Science Student and Front-end Developer
-- 🔭 I’m currently working on my Portfolio using Next.js and tailwindcss
-- 🌱 I’m currently learning more about Reactjs and back-end stuff
+- 🔭 I’m currently working on a project to make Notes and To-Do Lists (Linbretes) using Next.js, tailwindcss and prisma for the back-end.
+- 🌱 I’m currently learning more about Reactjs, back-end stuff and Angular Universal
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/linsmar-vital/) or [Portfolio](https://www.linsmarvital.com)
 - ⚡ Fun fact: I beat Margit in Elden Ring first try (with summons, haha)
 
