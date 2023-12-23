@@ -1,10 +1,10 @@
 ### Hello World 👋
 
 - 🎓 I'm a Computer Science Student and Front-end Developer
-- 🔭 I’m currently working on a project to make Notes and To-Do Lists (Linbretes) using Next.js, tailwindcss and prisma for the back-end.
-- 🌱 I’m currently learning more about Reactjs, back-end stuff and Angular Universal
+- 🔭 I’m currently working on projects in Chuva Inc
+- 🌱 I’m currently learning more about Drupal, PHP and React
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/linsmar-vital/) or [Portfolio](https://www.linsmarvital.com)
-- ⚡ Fun fact: I beat Margit in Elden Ring first try (with summons, haha)
+- ⚡ Fun fact: My favorite game is Cyberpunk 2077
 
 LET'S CODE! 🎇
 
@@ -12,6 +12,3 @@ LET'S CODE! 🎇
 
 Also, I LOVE MUSIC!
 - Check my songs <a href="https://soundcloud.com/linsmar/tracks" target="_blank">here</a>
-- Check out what I'm listening to in Spotify right now:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lolvegeta7&cover_image=true&theme=natemoo-re&bar_color=860fbd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=lolvegeta7&redirect=true)
