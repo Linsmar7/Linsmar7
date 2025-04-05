@@ -1,8 +1,8 @@
 ### Hello World 👋
 
-- 🎓 I'm a Computer Science Student and Front-end Developer
+- 🎓 I'm a Computer Science Student and Fullstack Developer
 - 🔭 I’m currently working on projects in Chuva Inc
-- 🌱 I’m currently learning more about Drupal, PHP and React
+- 🌱 I’m currently learning more about Drupal, Angular and CI/CD
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/linsmar-vital/) or [Portfolio](https://www.linsmarvital.com)
 - ⚡ Fun fact: My favorite game is Cyberpunk 2077
 
