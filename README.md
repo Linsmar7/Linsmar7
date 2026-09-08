@@ -8,7 +8,5 @@
 
 LET'S CODE! 🎇
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=linsmar7&layout=compact&langs_count=10&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=linsmar7&layout=compact&langs_count=10&theme=dark)
-
 Also, I LOVE MUSIC!
 - Check my songs <a href="https://soundcloud.com/linsmar/tracks" target="_blank">here</a>
